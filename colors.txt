@@ -1,0 +1,5 @@
+Colores:
+verde oscuro: #327103
+verde claro: #4da807
+azul: #063a66
+rojo: #9b3011
